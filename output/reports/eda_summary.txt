@@ -1,0 +1,13 @@
+# EDA Summary: Customer Purchase Behavior
+
+## Key Insights
+
+- Clothing category is the highest revenue contributor, making it the primary driver of overall sales  
+- Certain locations generate significantly higher revenue, indicating regional demand differences  
+- Customer purchasing behavior varies across gender, suggesting opportunities for targeted marketing  
+- Repeat customers contribute consistently to revenue, highlighting the importance of customer retention strategies  
+- Sales show seasonal patterns, helping identify peak demand periods  
+
+## Business Impact
+
+These insights can help improve decision-making in areas such as inventory planning, marketing strategies, and customer engagement to drive revenue growth.
