@@ -119,7 +119,7 @@ customer-purchase-behavior-analysis/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/powerbi_dashboard_basic.png)
+![Dashboard](screenshorts/powerbi_dashboard_basic.png)
 
 ---
 
