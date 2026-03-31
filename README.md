@@ -25,28 +25,35 @@ customer-purchase-behavior-analysis/
 │ ├── raw/ customer_shopping_behavior.csv
 │ └── processed/cleaned_customer_data.csv
 │
-├── notebooks/ # Jupyter notebooks for data analysis
+├── notebooks/ 
 │ ├── 01_data_loading_and_inspection.ipynb
 │ ├── 02_data_cleaning.ipynb
 │ └── 03_exploratory_data_analysis.ipynb
 │
-├── sql/ # SQL scripts for database setup and analysis
+├── sql/ 
 │ ├── 01_database_setup.sql
 │ ├── 02_data_import.sql
 │ └── 03_analysis_queries.sql
 │
-├── dashboard/ # Power BI dashboard file
+├── dashboard/ 
 │ └── customer_sales_dashboard.pbix
 │
 ├── output/
-│ ├── charts/ # Saved visualizations from Python
-│ └── reports/ # Business problem and EDA summary
+│ ├── charts/
+│    rating_vs_purchase_amount.png
+│    revenue_by_category.png
+│    revenue_by_gender.png
+│    sales_by_season.png
+│    top_10_locations_by_revenue.png
+│ └── reports/
+│    business_problem.md
+│    eda_summary.txt
 │
-├── screenshots/ # Dashboard screenshots for README
+├── screenshots/ 
 │ └── powerbi_dashboard_basic.png
 │
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── requirements.txt
+└── README.md 
 ```
 ---
 
