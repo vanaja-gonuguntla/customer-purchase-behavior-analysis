@@ -18,7 +18,7 @@ This project performs an end-to-end data analysis on a customer purchase dataset
 ---
 
 ## 📁 Project Structure
-
+```bash
 customer-purchase-behavior-analysis/
 │
 ├── data/
@@ -47,7 +47,7 @@ customer-purchase-behavior-analysis/
 │
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🔄 Project Workflow
